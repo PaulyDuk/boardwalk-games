@@ -138,6 +138,12 @@ h2 {
     background-color: transparent;
 }
 
+#student {
+    background-color: var(--highlight-color);
+    color: white;
+    padding: 0.5rem;
+}
+
 /* grid visualisation CSS for testing */
 
 /* .container,
